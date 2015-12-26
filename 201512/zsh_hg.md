@@ -41,3 +41,7 @@ function hg_prompt_info {
 
 ### Need to notice
 In in_hg(), though ```hg --cwd . root``` can do that same trick, it takes around half second, which is reasonably large considering how many "enter" you'll type in terminal.
+
+### Link
+* Quick: [Extending oh-my-zsh with hg_prompt](http://oblalex.blogspot.com/2013/06/extending-oh-my-zsh-with-hgprompt.html)
+* Detail: [My Extravagant Zsh Prompt](http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/)
